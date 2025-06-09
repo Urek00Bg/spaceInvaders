@@ -1,0 +1,3 @@
+/Users/vladislav/Desktop/space/cmake-build-debug/CMakeFiles/space.dir
+/Users/vladislav/Desktop/space/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vladislav/Desktop/space/cmake-build-debug/CMakeFiles/rebuild_cache.dir
